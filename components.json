@@ -1,0 +1,26 @@
+{
+  "componentNames": [
+    "Circle",
+    "ClipPath",
+    "Defs",
+    "Ellipse",
+    "G",
+    "Image",
+    "Line",
+    "LinearGradient",
+    "Path",
+    "Pattern",
+    "Polygon",
+    "Polyline",
+    "RadialGradient",
+    "Rect",
+    "Shape",
+    "Stop",
+    "Svg",
+    "Symbol",
+    "TSpan",
+    "Text",
+    "TextPath",
+    "Use"
+  ]
+}
